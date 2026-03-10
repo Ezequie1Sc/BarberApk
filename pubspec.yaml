@@ -1,0 +1,32 @@
+name: flutter_application_4
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  intl: ^0.19.0  # Added for date formatting in AgendarCitasScreen
+  http: ^1.2.1  # Added for HTTP requests
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/lou.png  # Image asset
+    - assets/barbero.jpg
+    - assets/corte.jpg
+    - assets/shampoo.jpg
+    - assets/aceite.jpg
+    - assets/pomada.jpg
+    - assets/local.jpg
