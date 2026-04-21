@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="/icons/flutter.svg" width="80" alt="Flutter Logo" />
-  <h1 style="margin-top: 0;">Barber Shop App</h1>
+  <h1>✂️ Barber Shop App</h1>
   <p>Aplicación integral para barberías que facilita la reserva de turnos, la compra de productos y la gestión de clientes.</p>
   
   <div>
-    <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter" />
-    <img src="https://img.shields.io/badge/Python-3.10-green?logo=python" />
-    <img src="https://img.shields.io/badge/Flask-2.3-black?logo=flask" />
-    <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql" />
-    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey" />
+    <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter" />
+    <img src="https://img.shields.io/badge/Python-3.10-green?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/Flask-2.3-black?style=for-the-badge&logo=flask" />
+    <img src="https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql" />
+    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=for-the-badge&logo=android" />
   </div>
 
   <br />
   
-  <img src="/proyectos/barberia/b_1.png" width="600" alt="App Preview" />
+  <img src="https://via.placeholder.com/800x400?text=App+Screenshot" width="600" alt="App Preview" />
+  <!-- Reemplaza el placeholder con tu imagen real -->
 </div>
 
 ---
@@ -21,7 +21,10 @@
 ## 📱 Demo
 
 <p align="center">
-  <img src="/barberAPK.webm" width="300" alt="App Demo Video" />
+  <video width="300" controls>
+    <source src="/barberAPK.webm" type="video/webm">
+    Tu navegador no soporta el video.
+  </video>
 </p>
 
 ---
@@ -31,24 +34,24 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="110">
-        <img src="/icons/flutter.svg" width="40" height="40" alt="Flutter" /><br/>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" /><br/>
         <b>Flutter</b>
       </td>
-      <td align="center" width="110">
-        <img src="/icons/dart.svg" width="40" height="40" alt="Dart" /><br/>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" /><br/>
         <b>Dart</b>
       </td>
-      <td align="center" width="110">
-        <img src="/icons/flask.svg" width="40" height="40" alt="Flask" /><br/>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /><br/>
         <b>Flask</b>
       </td>
-      <td align="center" width="110">
-        <img src="/icons/python.svg" width="40" height="40" alt="Python" /><br/>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br/>
         <b>Python</b>
       </td>
-      <td align="center" width="110">
-        <img src="/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" /><br/>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /><br/>
         <b>PostgreSQL</b>
       </td>
     </tr>
@@ -62,9 +65,9 @@
 > **Barberías perdían clientes por falta de sistema de reservas y mala gestión de turnos.**
 
 Sin un sistema digital, las barberías enfrentaban:
-- Pérdida de clientes por falta de disponibilidad horaria.
-- Dobles reservas y confusiones en los turnos.
-- Dificultad para vender productos de manera complementaria.
+- ❌ Pérdida de clientes por falta de disponibilidad horaria.
+- ❌ Dobles reservas y confusiones en los turnos.
+- ❌ Dificultad para vender productos de manera complementaria.
 
 ---
 
@@ -81,17 +84,12 @@ Sin un sistema digital, las barberías enfrentaban:
 
 ## ⚙️ ¿Cómo funciona?
 
-1. **Sincronización en tiempo real de disponibilidad**  
-   Los barberos ven su agenda actualizada al instante.
-
-2. **Pasarela de pagos integrada**  
-   Pago seguro de reservas y productos desde la app.
-
-3. **Base de datos centralizada**  
-   Toda la información de clientes, turnos y productos en PostgreSQL.
-
-4. **Notificaciones automáticas**  
-   Recordatorios de turnos y promociones personalizadas.
+| Paso | Descripción |
+|------|-------------|
+| 1️⃣ | **Sincronización en tiempo real de disponibilidad** - Los barberos ven su agenda actualizada al instante. |
+| 2️⃣ | **Pasarela de pagos integrada** - Pago seguro de reservas y productos desde la app. |
+| 3️⃣ | **Base de datos centralizada** - Toda la información de clientes, turnos y productos en PostgreSQL. |
+| 4️⃣ | **Notificaciones automáticas** - Recordatorios de turnos y promociones personalizadas. |
 
 ---
 
@@ -110,11 +108,12 @@ Los negocios que implementaron la app reportaron:
 ## 🖼️ Galería
 
 <div align="center">
-  <img src="/proyectos/barberia/b_2.png" width="200" />
-  <img src="/proyectos/barberia/b_3.png" width="200" />
-  <img src="/proyectos/barberia/b_4.png" width="200" />
-  <img src="/proyectos/barberia/b_5.png" width="200" />
+  <img src="https://via.placeholder.com/200x400?text=Screen+1" width="200" />
+  <img src="https://via.placeholder.com/200x400?text=Screen+2" width="200" />
+  <img src="https://via.placeholder.com/200x400?text=Screen+3" width="200" />
+  <img src="https://via.placeholder.com/200x400?text=Screen+4" width="200" />
 </div>
+<!-- Reemplaza los placeholders con tus imágenes reales -->
 
 ---
 
@@ -148,4 +147,4 @@ pip install -r requirements.txt
 flask db upgrade
 
 # Iniciar servidor
-flask run****
+flask run
